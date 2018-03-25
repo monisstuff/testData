@@ -1,0 +1,95 @@
+{
+  "posts": 
+  [
+      {
+        "id": 1,
+        "shop_name": "Mubeen's Restaurant",
+        "timings": "10 am to 11 pm",
+        "branch_name": "Akbarigate branch",
+        "image": "http://www.themubeens.com/images/logo.png",
+        "rating": 4,
+        "other_info": ""
+      },
+      {
+        "id": 2,
+        "shop_name": "Tundey Kababi",
+        "timings": "10 am to 11 pm",
+        "branch_name": "Akbarigate branch",
+        "image": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2017/05/16/Pictures/_e5ef8d02-3a27-11e7-b517-0cbfa8e97d3f.jpg",
+        "rating": 4,
+        "other_info": ""
+      },
+      {
+        "id": 3,
+        "shop_name": "Idrees Biryani",
+        "timings": "10 am to 10 pm",
+        "branch_name": "Main Branch",
+        "image": "https://lucknow.me/lucknow/wp-content/uploads/2013/08/Zaiqa2.jpg",
+        "rating": 4.5,
+        "other_info": ""
+      },
+       {
+        "id": 4,
+        "shop_name": "KFC",
+        "timings": "10 am to 11 pm",
+        "branch_name": "Saharaganj Branch",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201508/kfc_647_080815114242.jpg",
+        "rating": 4.5,
+        "other_info": ""
+      },
+      {
+        "id": 5,
+        "shop_name": "MCdonald's",
+        "timings": "10 am to 11 pm",
+        "branch_name": "Saharaganj",
+        "image": "http://im.hunt.in/cg/lucknow/City-Guide/mc-donald.jpg",
+        "rating": 4,
+        "other_info": ""
+      },
+  {
+    "id": 6,
+    "shop_name": "Pizza Hut",
+    "timings": "10 am to 11.30 pm",
+    "branch_name": "Hazratganj Branch",
+    "image": "https://img1.nbstatic.in/la-l/58887f6bdc0e82000dfa7a2f.jpg",
+    "rating": 4.5,
+    "other_info": ""
+  },
+  {
+    "id": 7,
+    "shop_name": "Dastarkhwan Restaurant",
+    "timings": "10 am to 12 am",
+    "branch_name": "Lalbagh branch",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/03/af/fc/a6/dastarkhwan.jpg",
+    "rating": 4,
+    "other_info": ""
+  },
+  {
+    "id": 8,
+    "shop_name": "Naushijaan",
+    "timings": "10 am to 10 pm",
+    "branch_name": "Hazratganj branch",
+    "image": "http://grabbite.com/wp-content/uploads/2014/03/naushijaan.jpg",
+    "rating": 4,
+    "other_info": ""
+  },
+  {
+    "id": 9,
+    "shop_name": "Royal Cafe",
+    "timings": "11 am to 1 am",
+    "branch_name": "Shahnajaf road, Hazratganj Branch",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/04/69/db/93/royal-cafe.jpg",
+    "rating": 4.5,
+    "other_info": ""
+  },
+  {
+    "id": 10,
+    "shop_name": "Kareem Kawab Paratha",
+    "timings": "11 am to 11 pm",
+    "branch_name": "Maulviganj Branch",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_JVXetkpqdczHC7Hcj34fEg-0UjRHdquvaQILyX586G0YEuqd7w",
+    "rating": 4.0,
+    "other_info": ""
+  }
+ ]
+}
